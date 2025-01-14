@@ -6,4 +6,4 @@ I’m an independent full-stack web developer and cybersecurity researcher, craf
 Every project I work on is carefully planned and executed, prioritizing both functionality and security. My focus is on developing high-performance web applications while uncovering vulnerabilities and enhancing digital safety.
 I shape the code that shapes the future.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wanda0fU&hide=contribs,prs)
+![Mohamed Ighijjou's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wanda0fU&show_icons=true&theme=transparent)
